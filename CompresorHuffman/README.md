@@ -33,16 +33,16 @@ La compresión de Huffman, sirve para (tal como dice su nombre), comprimir archi
 
 # Tabla con los resultados: 
 
-![alt text](https://github.com/edd-ic/taller-2-grupo2/blob/master/fotos/TABLA.png?raw=true)
+![alt text](https://github.com/Arlezz/Proyectos-de-Universidad/blob/master/CompresorHuffman/fotos/TABLA.png?raw=true)
 
 # Gráfico costo:
 
-![alt text](https://github.com/edd-ic/taller-2-grupo2/blob/master/fotos/GRAFICO_costo.png?raw=true)
+![alt text](https://github.com/Arlezz/Proyectos-de-Universidad/blob/master/CompresorHuffman/fotos/GRAFICO_costo.png?raw=true)
 
 # Gráfico peso original vs peso comprimido:
 
-![alt text](https://github.com/edd-ic/taller-2-grupo2/blob/master/fotos/GRAFICO_pesoO_vs_pesoC.png?raw=true)
+![alt text](https://github.com/Arlezz/Proyectos-de-Universidad/blob/master/CompresorHuffman/fotos/GRAFICO_pesoO_vs_pesoC.png?raw=true)
 
 # Gráfico de la tasa de compresión:
 
-![alt text](https://github.com/edd-ic/taller-2-grupo2/blob/master/fotos/GRAFICO_tasa_de_compresion.png?raw=true)
+![alt text](https://github.com/Arlezz/Proyectos-de-Universidad/blob/master/CompresorHuffman/fotos/GRAFICO_tasa_de_compresion.png?raw=true)
